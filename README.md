@@ -94,7 +94,8 @@ return 0;
 
 ##OUTPUT
 
-<img width="1599" height="759" alt="3" src="https://github.com/user-attachments/assets/793a1fee-2337-43d2-87cc-d122cbea91e7" />
+<img width="1599" height="576" alt="3" src="https://github.com/user-attachments/assets/fde47140-8fc7-4a9e-839f-85c8a126b6d5" />
+
 
 <img width="718" height="155" alt="4" src="https://github.com/user-attachments/assets/eba263da-35df-400c-9bbf-0c0ebd00a503" />
 
