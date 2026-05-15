@@ -48,6 +48,7 @@ if (pid == 0) {
 
 <img width="1600" height="299" alt="1" src="https://github.com/user-attachments/assets/7d4b3424-ba28-4615-94b4-dc6a032331be" />
 
+
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
 
 ```
